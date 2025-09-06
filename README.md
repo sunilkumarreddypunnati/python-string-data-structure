@@ -1,4 +1,4 @@
-# 📋 Python String Practice Tasks  
+# 🧵 Python String Practice Tasks – Beginner to Advanced
 
 This repository is a structured guide to mastering **Python Strings**, one of the most essential and versatile data types in Python.  
 
@@ -40,12 +40,12 @@ Perfect for beginners and learners who want to strengthen their understanding of
 
 ---
 
-## 👨‍💻 About Me  
-📊 **Sunil Kumar Reddy Punnati**  
-🎓 MCA Graduate | 💼 Data Analyst Intern | 📍 Tirupati, India  
-
-I’m passionate about Python programming, data analysis, and building impactful dashboards.  
-This repository is part of my journey to **become an industry-ready Data Analyst / Software Developer**.  
+### 👨‍💻 About Me
+- 📊 Sunil Kumar Reddy Punnati
+- 🎓 MCA Graduate | 💼 Data Analyst Intern
+- 📍 Tirupati, India
+- 💡 Passionate about Python, data analysis, and building impactful dashboards
+- 🚀 Actively preparing for full-time roles in data analytics and software development 
 
 I believe in **learning by doing**, and this project reflects my commitment to mastering Python fundamentals with **clean, structured coding**.  
 
